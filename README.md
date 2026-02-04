@@ -12,7 +12,7 @@ A robust, full-stack task management application built with the latest React and
 * **Full CRUD Operations:** Create, Read, Update (Toggle), and Delete todos.
 * **Optimistic UI:** Instant interface updates using `useOptimistic` and `startTransition`, ensuring the app feels responsive even on slower networks.
 * **Server Actions:** Direct backend mutations without simpler API routes, utilizing Next.js `'use server'` capabilities.
-* **Database Integration:** Data persistence using Drizzle ORM (likely with a PostgreSQL provider).
+* **Database Integration:** Data persistence using Drizzle ORM.
 * **Responsive Design:** Styled with Tailwind CSS for mobile and desktop compatibility.
 
 ## 🛠️ Tech Stack
